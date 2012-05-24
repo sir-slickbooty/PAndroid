@@ -1,0 +1,19 @@
+Information Links
+
+Android API Reference:
+	
+http://developer.android.com/reference/packages.html
+
+JDK Reference:
+
+http://docs.oracle.com/javase/1.5.0/docs/api/
+
+OpenGL 2.0 ES
+
+http://www.opengl.org/documentation/
+
+Android 3D Dev tutorial
+
+http://www.droidnova.com/android-3d-game-tutorial-part-i,312.html
+
+Jaudat Enjoys Le Boys
